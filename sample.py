@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("welcome to my ai app!")
-st.header("chat bot!!!! ")
-st.subheader("vishnuprasaath")
+st.title("welcome to my web based ai application!")
+st.header("chat bot")
+#st.subheader("vishnuprasaath")
 
 import google.generativeai as genai
 
